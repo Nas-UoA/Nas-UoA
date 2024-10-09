@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a financial analyst and a FinTech Specialist, with more than 15 year of experience in the banking and financial sector. As a two times honored MSc student, I became a PhD student with  the interest of researching the machine learning applications in finance. I am an eager learner, ready to explore the new paths that innovating technologies offer.
 
 <!--
 **Nas-UoA/Nas-UoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
